@@ -46,7 +46,7 @@
 
       /* ── Back to top ── */
       $('#backToTop').on('click', function () {
-        $('html, body').animate({ scrollTop: 0 }, 500);
+        window.open('http://wa.me/6281234567890', '_blank', 'noopener');
       });
 
       /* ── Mobile menu ── */
